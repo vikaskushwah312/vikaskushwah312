@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikas Singh Kushwah</h1>
 <h3 align="center">Data Analyst | India 🇮🇳 | Passionate about Data Insights</h3>
 
+![](https://komarev.com/ghpvc/?username=vikaskushwah312&color=brightgreen)
+
+
 - 🌱 I'm continuously learning and working to become an expert in **Power BI, SQL, Python, Excel**
 
 - 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/vikas-singh-kushwah-268228168/)
