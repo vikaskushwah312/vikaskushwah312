@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: [vikaskushwah312@gmail.com](mailto:vikaskushwah312@gmail.com)
 
-- 📄 Check out my [resume](resume)
+- 📄 Check out my [(https://drive.google.com/file/d/1t1Alht3vjjb3kTaPzZljut9K59rorNfU/view)](resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
