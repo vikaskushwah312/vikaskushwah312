@@ -43,3 +43,5 @@ I view each project as an opportunity to learn, innovate, and make a difference.
 I’m passionate about exploring the limitless potential of technology and collaborating with like-minded professionals to create impactful solutions. Whether it’s through crafting innovative applications, solving challenging problems, or sharing knowledge, I’m always excited to contribute to the tech community.
 
 Let’s connect and shape the future together!
+
+[LinkedIn](www.linkedin.com/in/vikas-singh-kushwah)  
