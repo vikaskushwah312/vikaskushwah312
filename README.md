@@ -1,3 +1,5 @@
+📫 How to reach me: [vikaskushwah312@gmail.com](mailto:vikaskushwah312@gmail.com) , [LinkedIn](https://www.linkedin.com/in/vikas-singh-kushwah-268228168/)
+  
 Hi there! 👋
 
 I’m Vikas Singh Kushwah, a dedicated and versatile Software Developer with 7+ years of experience in building scalable, efficient, and user-friendly applications. My passion lies in creating innovative solutions that bridge the gap between technology and user needs, driving meaningful impact in every project I undertake.
@@ -43,5 +45,3 @@ I view each project as an opportunity to learn, innovate, and make a difference.
 I’m passionate about exploring the limitless potential of technology and collaborating with like-minded professionals to create impactful solutions. Whether it’s through crafting innovative applications, solving challenging problems, or sharing knowledge, I’m always excited to contribute to the tech community.
 
 Let’s connect and shape the future together!
-
-[LinkedIn](www.linkedin.com/in/vikas-singh-kushwah)  
